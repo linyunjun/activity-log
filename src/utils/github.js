@@ -72,6 +72,7 @@ async function fetchAllEvents() {
             });
 
             const message = 'Message for test';
+            const message1 = 'Message for test , can be remove';
             const canBeRemove = 'canBeRemove';
 
             // Check for API rate limit or pagination issues
