@@ -18,16 +18,36 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089)
-2. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799363598)
-3. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799357469)
-4. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799352192)
-5. 🔎 Reviewed [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-6. 🔎 Reviewed [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-7. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-16` in a private repo
-8. 🔀 Merged a PR in a private repo
-9. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-16` in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-10. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/Pixcurate/pull/6) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
+1. 📝 Committed to [linyunjun/activity-log](https://github.com/linyunjun/activity-log/commit/1117df5000e687e2503d5dbc425acf2e7cefc21c)
+2. 🆕 Opened an issue in a private repo
+3. ❌ Closed an issue in a private repo
+4. 📝 Committed to [linyunjun/activity-log](https://github.com/linyunjun/activity-log/commit/40789092683aab4ffa49dfca826f9b93001296ef)
+5. 📝 Committed to a private repo
+6. ❌ Closed an issue in a private repo
+7. 🔀 Merged a PR in a private repo
+8. 📥 Opened a PR in a private repo
+9. 📝 Committed to a private repo
+10. ➕ Created a new branch `4-activity-log` in a private repo
+11. 🚀 Published release [`latest`](https://github.com/linyunjun/activity-log/releases/tag/latest) in [linyunjun/activity-log](https://github.com/linyunjun/activity-log)
+12. 📝 Committed to [linyunjun/activity-log](https://github.com/linyunjun/activity-log/commit/1d6f9abcce57653c3b30e68220426b24b578ade4)
+13. 📝 Committed to [linyunjun/activity-log](https://github.com/linyunjun/activity-log/commit/886b7a55a3c9ecbaf4caa76f00f35731c860cb50)
+14. 🆕 Opened an issue in a private repo
+15. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+16. ❌ Closed an issue in a private repo
+17. 📝 Committed to a private repo
+18. 🔀 Merged a PR in a private repo
+19. 📥 Opened a PR in a private repo
+20. 📝 Committed to a private repo
+21. 📝 Committed to a private repo
+22. ➕ Created a new branch `2-study` in a private repo
+23. 🆕 Opened an issue in a private repo
+24. 🆕 Opened an issue in a private repo
+25. ➕ Created a new branch `JQSD-3` in a private repo
+26. ➕ Created a new branch `main` in a private repo
+27. 🎉 Created a new private repository
+28. 🎉 Created a new repository [linyunjun/Jira](https://github.com/linyunjun/Jira)
+29. ➕ Created a new branch [`main`](https://github.com/linyunjun/Jira/tree/main) in [linyunjun/Jira](https://github.com/linyunjun/Jira)
+30. 🎉 Created a new repository [linyunjun/Jira](https://github.com/linyunjun/Jira)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
