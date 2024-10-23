@@ -71,9 +71,11 @@ async function fetchAllEvents() {
                 page
             });
 
+            const message = 'Message for test';
+
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                //core.warning('⚠️ No more events available.');
+                core.warning('⚠️ No more events available.');
                 break; // No more events to fetch
             }
 
